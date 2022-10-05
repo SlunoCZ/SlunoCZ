@@ -1,0 +1,8 @@
+GIT
+git init - vytvoření lokálního repozitáře
+git clone - https://example.com/... klonování existujícího repozitře
+git remote add origin https://example.com/... - připojení k centrálnímu repozitáři, který pojmenujeme origin
+git add - Přidání souborů do staging area, tečka reprezentuje vše (možno také git add soubor, git add složka)
+git commit - vytvoření commitu
+git push - nahrání commitu na centrální repozitář
+
